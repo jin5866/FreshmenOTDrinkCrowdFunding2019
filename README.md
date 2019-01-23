@@ -13,16 +13,21 @@
 
 * <[별첨1](/MethodAndMaterial/MethodAndMaterial.md)>을 참고.
 
-## 금액
+## 예산
 
-* <별첨2>를 참고.
+* <[별첨2](/Dudget/Dudget.md)>를 참고.
 
 ## 선정 기준
 
 * <[별첨3](/SelectionCriteria/SelectionCriteria.md)>을 참고.
 
+## 음료 종류
+
+* <[별첨4](/ListOfDrinks/ListOfDrinks.md)>를 참고
+
 ## 별첨
 
 * [별첨1](/MethodAndMaterial/MethodAndMaterial.md)
-* 별첨2
+* [별첨2](/Dudget/Dudget.md)
 * [별첨3](/SelectionCriteria/SelectionCriteria.md)
+* [별첨4](/ListOfDrinks/ListOfDrinks.md)
