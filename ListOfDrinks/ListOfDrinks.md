@@ -12,6 +12,6 @@
 
 ### 그린 위도우
 
-![GreenWidow]("/Pictures/GreenWidow.jpg")
+![GreenWidow](./Pictures/GreenWidow.jpg)
 
 ## 논 알콜 칵테일
