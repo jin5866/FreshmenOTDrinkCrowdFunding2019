@@ -82,6 +82,25 @@
 > 1. 재료를 모두 하이볼 글래스에 넣고 섞는다.
 > 1. 레몬으로 장식하여 완성.
 
+### 마가리타 
+
+<details><summary>사진</summary><p>
+
+![Margarita.jpg](./Pictures/Margarita.jpg)
+
+</p></details>
+
+#### 재료
+
+* 데킬라 - 1oz (30ml)
+* 트리플 섹 - 1/2oz (15ml)
+* 라임 주스 - 1/2oz (15ml)
+
+#### 기법
+
+* 쉐이크
+* 라임즙,소금 리밍.
+
 ### 선 번
 
 <details><summary>사진</summary><p>
@@ -596,25 +615,6 @@
 #### 기법
 
 * 쉐이크
-
-### 마가리타 
-
-<details><summary>사진</summary><p>
-
-![Margarita.jpg](./Pictures/Margarita.jpg)
-
-</p></details>
-
-#### 재료
-
-* 데킬라 - 1oz (30ml)
-* 트리플 섹 - 1/2oz (15ml)
-* 라임 주스 - 1/2oz (15ml)
-
-#### 기법
-
-* 쉐이크
-* 라임즙,소금 리밍.
 
 ## 논 알콜 칵테일
 
