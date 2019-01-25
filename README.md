@@ -27,7 +27,7 @@
 
 ## 별첨
 
-* [별첨1](/MethodAndMaterial/MethodAndMaterial.md)
-* [별첨2](/Dudget/Dudget.md)
-* [별첨3](/SelectionCriteria/SelectionCriteria.md)
-* [별첨4](/ListOfDrinks/ListOfDrinks.md)
+* 별첨1 : [방법과 수단](/MethodAndMaterial/MethodAndMaterial.md)
+* 별첨2 : [예산](/Dudget/Dudget.md)
+* 별첨3 : [선정 기준](/SelectionCriteria/SelectionCriteria.md)
+* 별첨4 : [음료 종류](/ListOfDrinks/ListOfDrinks.md)
