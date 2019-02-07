@@ -857,6 +857,21 @@
 * 12-16도.
 * 바나나우유맛.
 
+### 레인보우 샷
+
+<details><summary>사진</summary><p>
+
+![RainbowShot](./Pictures/RainbowShot.jpg)
+
+#### 재료
+
+* 그레나딘 시럽 1oc
+* 오렌지 주스 적당량
+* 무향 보드카.
+* 블루 큐라소.
+
+</p></details>
+
 ## 등등..
 
 ### 아무거나 위스키
