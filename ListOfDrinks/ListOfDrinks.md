@@ -679,6 +679,28 @@
 
 ## 럼
 
+### 스카이 다이빙
+
+<details><summary>사진</summary><p>
+
+![Skydiving](./Pictures/Skydiving.jpg)
+
+</p></details>
+
+#### 재료
+
+* 화이트 럼 - 30ml
+* 블루 큐라소 - 15ml
+* 라임 주스 - 15ml
+
+#### 기법
+
+* 셰이크
+
+#### 특징
+
+* 25-28도.
+
 ### 준벅
 
 <details><summary>사진</summary><p>
@@ -724,6 +746,36 @@
 
 * 6-8도.
 * 달달함.
+
+### 블루 하와이
+
+<details><summary>사진</summary><p>
+
+![BlueHawaii](./Pictures/BlueHawaii.jpg)
+
+</p></details>
+
+#### 재료 1
+
+* 럼 - 30ml
+* 블루 큐라소 - 15ml
+* 라임 주스 - 15ml
+* 파인애플 주스 - 30ml
+
+#### 재료 - 블루 하와이안.
+
+* 라이트 럼 1 oz
+* 블루 큐라소 1 oz
+* 코코넛 플레이버드 럼 1 oz //코코넛 크림으로 대체해보자.
+* 파인애플 주스 2 ½ oz
+
+#### 기법
+
+* 블렌드 or 셰이크
+
+#### 특징
+
+* 30도쯤.
 
 ### 다이키리
 
