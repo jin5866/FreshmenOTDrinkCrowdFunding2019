@@ -777,6 +777,31 @@
 
 * 30도쯤.
 
+### 페인 킬러
+
+<details><summary>사진</summary><p>
+
+![PainKiller](./Pictures/PainKiller.jpg)
+
+</p></details>
+
+#### 재료
+
+* 럼 2 oz
+* 파인에플 주스 4 oz
+* 오렌지 주스 1 oz
+* 코코넛 크림 1 oz
+* 파인에플 가니시.
+
+#### 특징
+
+* 10도.
+* 피나콜라다와 유사.
+
+#### 기법
+
+* 쉐이크 or 블렌딩
+
 ### 다이키리
 
 <details><summary>사진</summary><p>
